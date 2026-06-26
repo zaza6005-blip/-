@@ -1,0 +1,6 @@
+{
+  "name": "المحلل الصرفي",
+  "description": "تطبيق لتحليل الشواهد النصية تحليلاً صرفياً دقيقاً واستخراج الجذر، الوزن، واللواحق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
